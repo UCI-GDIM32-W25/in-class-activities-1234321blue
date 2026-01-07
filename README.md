@@ -1,17 +1,4 @@
 # GDIM32 In Class Activities
-## Instructions
-Put each week's activities under new headers like the one shown above. Headers are created with the # symbol. More # symbols = smaller header.
-
-
-Hit enter TWICE to create a new line.
-
-
-- Create bullet points by writing dashes.
-- Here's another bullet point entry.
-
-
-Remove all placeholder text in order to get full credit for README file formatting.
-
 ## Week 1
 ### Activity 1
 Some advice that our table came up with was to predict how long an assignment might take you in order to get in on time, not finishing it up in the last minute. We also said that it was important to utilize class resources, whether it be the la tech hours, unity documentation, or even just lecture and or pre-learning slides.
