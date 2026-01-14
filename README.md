@@ -15,7 +15,7 @@ Some advice that our table came up with was to predict how long an assignment mi
 [MG1 Breakdown Link](https://docs.google.com/document/d/1ZloeI2O3HLCZUm7UvvfKdylog4EuKHg3eZPcW1Tevz0/edit?usp=sharing)
 ## Week 2
 ### Activity 1
-
+![IMG_1662-2](https://github.com/user-attachments/assets/632552ab-d80f-4a5c-aa96-bbc1688b9405)
 ### Activity 2
 [GameObjects and Jumping](https://github.com/UCI-GDIM32-W25/mg2-1234321blue/commit/9b439635a8c09dd64bf7cce390028245b5f5e71d#diff-e65036fee1cff958931462d7536a02606acb134d91dd8b158421aa01ba3f1f5f) [Fixed Jumping](https://github.com/UCI-GDIM32-W25/mg2-1234321blue/commit/d9dc70cf2f32febf7b2fa7d19671594666130f92)
 I added the basic game objects such as the player character, the ground, and the UI. Along with this, I added a Player script and coded it to make the player jump when you press space.
