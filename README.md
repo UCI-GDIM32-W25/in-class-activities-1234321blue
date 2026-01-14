@@ -13,4 +13,7 @@ Some advice that our table came up with was to predict how long an assignment mi
 8. _playerTransform
 ### Activity 3
 [MG1 Breakdown Link](https://docs.google.com/document/d/1ZloeI2O3HLCZUm7UvvfKdylog4EuKHg3eZPcW1Tevz0/edit?usp=sharing)
+## Week 2
+### Activity 1
 
+### Activity 2
