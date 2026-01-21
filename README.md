@@ -23,4 +23,5 @@ I added the basic game objects such as the player character, the ground, and the
 ### Activity 0-2
 Gael Porras
 ### Activity 3
+![IMG_1668-2](https://github.com/user-attachments/assets/91cd920d-c930-4702-9af1-832e0b1e19fc)
 
