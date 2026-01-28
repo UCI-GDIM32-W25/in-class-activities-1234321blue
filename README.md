@@ -30,7 +30,7 @@ Gael Porras
 ### Activity 1
 When you add multiple Locator objects to the scene and run the game, though the empty object itself will not be destroyed, the Locator component on these objects will disappear besides one. This happens because, on Awake, the Locator class will check if there are other Locator classes and if they are the this, and is so, they will destroy, eventually just leaving one Locator class.
 ### Activity 2
-
+![IMG_1679](https://github.com/user-attachments/assets/2d9de740-0f84-49b9-8910-a92c1ae792e1)
 ### Activity 3
 
 
