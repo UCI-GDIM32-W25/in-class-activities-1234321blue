@@ -32,5 +32,5 @@ When you add multiple Locator objects to the scene and run the game, though the 
 ### Activity 2
 ![IMG_1679](https://github.com/user-attachments/assets/2d9de740-0f84-49b9-8910-a92c1ae792e1)
 ### Activity 3
-
+I added the sprites into the game and created the basic visual assets of the game, such as the bird and the floor. I also changed the aspect ratio to better fit the game of floppy bird.
 
