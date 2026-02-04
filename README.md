@@ -33,4 +33,19 @@ When you add multiple Locator objects to the scene and run the game, though the 
 ![IMG_1679](https://github.com/user-attachments/assets/2d9de740-0f84-49b9-8910-a92c1ae792e1)
 ### Activity 3
 I added the sprites into the game and created the basic visual assets of the game, such as the bird and the floor. I also changed the aspect ratio to better fit the game of floppy bird.
+## Week 5
+### Activity 1
+If I were implementing the IBreakable interface and Item abstract class just as it was, I think I would change Item from an abstract class to an interface as, in its current form, it only has an abstract method, which I could easily translate into just an interface. But in a broader scope, seeing as an item would probably have more than just interactions in common, such as durability or maybe an attacking power, I would probably keep it as an abstract class as they're more convenient for similar objects in a game.
+### Activity 2
+In demo 2, a class representing the model was the enemy script that was the scriptable object as it held only data. A class representing the controller part of the MVC design model would be the script running how the player interacts with the enemy and what they say as this is the logic that is actually running the game. Finally the view part of the model would be the class that just sets the dialogue of the enemy and shows it on screen.
+### Activity 3
+#### Scenario 1
+For the rhythm game, you could use inheritance to make all the different type of beats you want in the game. Using something like an abstract class to determine the basics of each note (movement, getting hit, etc), you then make different types of notes by creating child classes that specify details to make them unique (movement speed, score, what key hits what note, etc). You could also use a Singleton in reference for a GameController, which would hold information like points and timing for the song.
+#### Scenario 2
+For a team shooter, you could probably use inheritance to make a base for all your characters with an abstract class or something of the sort, including movement, health, and attacking. From there, with child classes, you make each unique character, implementing a unique ability seperating the characters apart from each other.
+#### Scenario 3
+With the farm simulator, for the different things you can plant, you could use a mvc design model to keep the various plants' information as a scriptable object, than script the logic behind the player being able to interact with all the different plants. Then you could seperate out the view with events based off the logic code, including the player animation.
+### Activity 4
+Attendance: Gael Porras, Jeremiah Yang
+[Final Project Proposal](https://docs.google.com/document/d/1-4LVGJgfxqEb7zRdfGDfO5tOJxruOldH0SpWawnbftE/edit?usp=sharing)
 
