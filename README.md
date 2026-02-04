@@ -47,5 +47,6 @@ For a team shooter, you could probably use inheritance to make a base for all yo
 With the farm simulator, for the different things you can plant, you could use a mvc design model to keep the various plants' information as a scriptable object, than script the logic behind the player being able to interact with all the different plants. Then you could seperate out the view with events based off the logic code, including the player animation.
 ### Activity 4
 Attendance: Gael Porras, Jeremiah Yang
+
 Proposal: [Final Project Proposal](https://docs.google.com/document/d/1-4LVGJgfxqEb7zRdfGDfO5tOJxruOldH0SpWawnbftE/edit?usp=sharing)
 
