@@ -50,14 +50,20 @@ Attendance: Gael Porras, Jeremiah Yang
 
 Proposal: [Final Project Proposal](https://docs.google.com/document/d/1-4LVGJgfxqEb7zRdfGDfO5tOJxruOldH0SpWawnbftE/edit?usp=sharing)
 ## Week 6
-### Profiling
--Window to Analysis to Profiler to access in Unity
+### Activity 1
+#### Profiling
+- Window to Analysis to Profiler to access in Unity
 
--When red dot is active, profiling of game is happening
+- When red dot is active, profiling of game is happening
 
--Hierarchy in Profiler tool shows how long anything in the Scene is taking to load
+- Hierarchy in Profiler tool shows how long anything in the Scene is taking to load
 
--Profiler can help identify any big lag points in game
-### Breakpoints
+- Profiler can help identify any big lag points in game
+#### Breakpoints
+-
+#### Extra Stuff
+-Polygon Colliders pretty slow, use mostly for singular objects like player
+
+-
 
 
