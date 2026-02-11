@@ -51,16 +51,37 @@ Attendance: Gael Porras, Jeremiah Yang
 Proposal: [Final Project Proposal](https://docs.google.com/document/d/1-4LVGJgfxqEb7zRdfGDfO5tOJxruOldH0SpWawnbftE/edit?usp=sharing)
 ## Week 6
 ### Activity 1
+#### Merging
+- When presented with conflict, hit open in Visual Studio
+- Line with "HEAD" above it is your line of code, below that will be the conflicting line
+- Once edited, you can go back to GitHub and push your change
+- If changing code through conflicts, go back to Unity first and test before pushing
 #### Profiling
 - Window to Analysis to Profiler to access in Unity
 - When red dot is active, profiling of game is happening
 - Hierarchy in Profiler tool shows how long anything in the Scene is taking to load
 - Profiler can help identify any big lag points in game
-- Issues may include:
-    - Polygon Colliders pretty slow, use mostly for singular objects like player
+- Issues:
+    - Using complex colliders can slow down your game a lot
     - GetComponent() method is slow to use, avoid when you can
-
+    - Huge Textures may take too long to load
+    - Don't use more rigidbodies than you need
+#### Gizmos
+- Gizmos methods are just called by Unity (don't have to edit it)
+- Gizmos only viewable in Scene view
+- Example of Gizmos:
+    - Using Gizmos to give clearer outlines to Colliders
+    - Using Gizmos to show Velocity, generally useful in making Physics or Vectors more visible and understandable
 #### Breakpoints
--
+- Click on left of lines to create a breakpoint in code, signaled by red dot
+- Go to Run and Debug tag and hit Attatch to Unity to see whats going on
+- Breakpoints stop the game from running when the line of code is attatched to is run
+- Call stack tells you what methods were called before your breakpoint
+- Hovering over variables in your code tell you what value they are holding
+### Activity 2
+Attendance: Gael Porras, Jeremiah Yang
+
+Proposal: [Final Project Proposal](https://docs.google.com/document/d/1-4LVGJgfxqEb7zRdfGDfO5tOJxruOldH0SpWawnbftE/edit?usp=sharing)
+
 
 
