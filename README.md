@@ -56,11 +56,11 @@ Proposal: [Final Project Proposal](https://docs.google.com/document/d/1-4LVGJgfx
 - When red dot is active, profiling of game is happening
 - Hierarchy in Profiler tool shows how long anything in the Scene is taking to load
 - Profiler can help identify any big lag points in game
-#### Breakpoints
--
-#### Extra Stuff
--Polygon Colliders pretty slow, use mostly for singular objects like player
+- Issues may include:
+    - Polygon Colliders pretty slow, use mostly for singular objects like player
+    - GetComponent() method is slow to use, avoid when you can
 
+#### Breakpoints
 -
 
 
