@@ -49,4 +49,12 @@ With the farm simulator, for the different things you can plant, you could use a
 Attendance: Gael Porras, Jeremiah Yang
 
 Proposal: [Final Project Proposal](https://docs.google.com/document/d/1-4LVGJgfxqEb7zRdfGDfO5tOJxruOldH0SpWawnbftE/edit?usp=sharing)
+## Week 6
+### Profiling
+-Window to Analysis to Profiler to access in Unity
+-When red dot is active, profiling of game is happening
+-Hierarchy in Profiler tool shows how long anything in the Scene is taking to load
+-Profiler can help identify any big lag points in game
+### Breakpoints
+
 
