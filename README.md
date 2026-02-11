@@ -52,8 +52,11 @@ Proposal: [Final Project Proposal](https://docs.google.com/document/d/1-4LVGJgfx
 ## Week 6
 ### Profiling
 -Window to Analysis to Profiler to access in Unity
+
 -When red dot is active, profiling of game is happening
+
 -Hierarchy in Profiler tool shows how long anything in the Scene is taking to load
+
 -Profiler can help identify any big lag points in game
 ### Breakpoints
 
