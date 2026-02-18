@@ -84,8 +84,18 @@ Attendance: Gael Porras, Jeremiah Yang
 Proposal: [Final Project Proposal](https://docs.google.com/document/d/1-4LVGJgfxqEb7zRdfGDfO5tOJxruOldH0SpWawnbftE/edit?usp=sharing)
 ## Week 7
 ### Activity 1
+- Gizmos used to simulate line of sight on duck or raycast
+- Duck uses finite state machine to define movement behavior, walking vs chasing player
+- Finite state machine used here as these different movement behaviors are mutually exclusive, meaning they shouldn't be happening at the same time
+- Raycast defined from where it starts, what direction it is going, and how far it should go
+- Raycast is ultimately boolean, checking for if the raycast actually hit something
+- Spherecast used to check area for obstacles, checks within a whole area as opposed to a single point
 ### Activity 2
+Attendance: Gael Porras, Jeremiah Yang
 ### Activity 3
 ### Activity 4
+[Final Project Taskboard](https://docs.google.com/document/d/1qcCvx221nZpAMjmwJdpyKQ7kBxEmTlBFmETyLgA6mj8/edit?usp=sharing)
+### Activity 5
+
 
 
