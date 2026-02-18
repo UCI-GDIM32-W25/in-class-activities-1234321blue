@@ -82,6 +82,10 @@ Proposal: [Final Project Proposal](https://docs.google.com/document/d/1-4LVGJgfx
 Attendance: Gael Porras, Jeremiah Yang
 
 Proposal: [Final Project Proposal](https://docs.google.com/document/d/1-4LVGJgfxqEb7zRdfGDfO5tOJxruOldH0SpWawnbftE/edit?usp=sharing)
-
+## Week 7
+### Activity 1
+### Activity 2
+### Activity 3
+### Activity 4
 
 
