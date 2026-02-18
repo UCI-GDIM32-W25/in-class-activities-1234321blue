@@ -93,6 +93,7 @@ Proposal: [Final Project Proposal](https://docs.google.com/document/d/1-4LVGJgfx
 ### Activity 2
 Attendance: Gael Porras, Jeremiah Yang
 ### Activity 3
+![IMG_1694](https://github.com/user-attachments/assets/1605a011-1619-4945-a5de-189c43564c49)
 ### Activity 4
 [Final Project Taskboard](https://docs.google.com/document/d/1qcCvx221nZpAMjmwJdpyKQ7kBxEmTlBFmETyLgA6mj8/edit?usp=sharing)
 ### Activity 5
