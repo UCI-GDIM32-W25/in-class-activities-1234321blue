@@ -100,5 +100,22 @@ Attendance: Gael Porras, Jeremiah Yang
 [Commit Link](https://github.com/1234321blue/GDIM32-Final/commit/ee2b387035a217081c1f222039a5b7f17f04a5be) 
 
 I created basic prefabs for our playable character and our main NPC. I also created the basic scripts that will be controlling them.
+## Week 8
+### Activity 1
+- Rendering Pipeline is what tells a game what objects and things to draw into the screen (CPU to GPU)
+- For assets on Unity, check if the rendering pipeline matches your build's rendering pipeline type (built-in, universal, etc.)
+- Post-processing applies a shader over your entire screen
+- Post-processing can make your game look brighter or bring it together more thematically with colored shading
+- For post-processing fx from Unity asset store, once again check if rendering pipeline is consistent with your build
+- Check itch build after adding post-processing to make sure it doesn't tank your game's performance
+### Activity 2
+Attendance: Gael Porras, Jeremiah Yang
+### Activity 3
+#### Playtesting Notes
+- Suggested alterior endings like an ending where, at the beginning, you could get a new interaction after saying no to the NPC's request 
+- Suggested adding a gun to items you could interact with 
+### Activity 4
+For today, I will try to get player movement and camera movement working smoothly.
+### Activity 5
 
 
