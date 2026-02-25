@@ -117,5 +117,7 @@ Attendance: Gael Porras, Jeremiah Yang
 ### Activity 4
 For today, I will try to get player movement and camera movement working smoothly.
 ### Activity 5
+[Commit Link](https://github.com/1234321blue/GDIM32-Final/commit/765e32eff1e21107ac590b6c9d2168d4329a3b5d) 
 
+I added code to the Player script that allows for movement, implementing a steering kind of system where the player can go back and forward while the left and right keys change where the player is facing, changing the direction they go when moving. Also added camera as child of player to make sure it followed them around. 
 
