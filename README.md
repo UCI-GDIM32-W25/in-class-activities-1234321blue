@@ -136,4 +136,6 @@ Attendance: Gael Porras, Jeremiah Yang
 ### Activity 4
 I would say that we are almost halfway through our project, with the main mechanics of our game, the dialogue and item interactions, almost being done. Along with this, we have a lot of environmental assets that make our game aesthetics pretty decent. This puts us a little behind where the Final Check-In would put us, so I would say that that we are a little behind in our progress, but not by too much. For the scope of our game though, implementing more dialogue and more unique item interactions beyond changing the dialogue of our NPC have taken us a little longer than expected, so we may be scaling back on how many unique items we include in the game.
 ### Activity 5
+[Commit Link](https://github.com/1234321blue/GDIM32-Final/commit/fadee76f8ccdf26156c607396a03dff5a19f5cd1)
 
+I worked on getting items to interact properly with the NPC and added a temporary tutorial for playtesters or graders to make what they are doing in the game more clear.
