@@ -120,4 +120,20 @@ For today, I will try to get player movement and camera movement working smoothl
 [Commit Link](https://github.com/1234321blue/GDIM32-Final/commit/765e32eff1e21107ac590b6c9d2168d4329a3b5d) 
 
 I added code to the Player script that allows for movement, implementing a steering kind of system where the player can go back and forward while the left and right keys change where the player is facing, changing the direction they go when moving. Also added camera as child of player to make sure it followed them around. 
+## Week 9
+### Activity 1
+- When looking at coding, you can judge it by it's scaling, or how well your code will handle tons of data and/or how well others can utilize and understand your coding
+- The design patterns we learned in this class (Singletons, Inheritance and polymorphism, events, etc) will help with makeing your code more scalable
+- Dialogue itself isn't hard coded in demo, making it easier to manipulate and change without having to go into the code
+### Activity 2
+Attendance: Gael Porras, Jeremiah Yang
+### Activity 3
+#### Playtesting Notes
+- Add checklist for items asked by neighbor
+- Add more unique dialogue options
+- Add more violent items >:)
+- Add crosshair to screen
+### Activity 4
+I would say that we are almost halfway through our project, with the main mechanics of our game, the dialogue and item interactions, almost being done. Along with this, we have a lot of environmental assets that make our game aesthetics pretty decent. This puts us a little behind where the Final Check-In would put us, so I would say that that we are a little behind in our progress, but not by too much. For the scope of our game though, implementing more dialogue and more unique item interactions beyond changing the dialogue of our NPC have taken us a little longer than expected, so we may be scaling back on how many unique items we include in the game.
+### Activity 5
 
