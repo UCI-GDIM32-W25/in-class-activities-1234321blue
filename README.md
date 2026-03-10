@@ -139,3 +139,15 @@ I would say that we are almost halfway through our project, with the main mechan
 [Commit Link](https://github.com/1234321blue/GDIM32-Final/commit/fadee76f8ccdf26156c607396a03dff5a19f5cd1)
 
 I worked on getting items to interact properly with the NPC and added a temporary tutorial for playtesters or graders to make what they are doing in the game more clear.
+## Week 10
+### Activity 1
+Attendance: Gael Porras, Jeremiah Yang
+### Activity 2
+#### Playtesting Notes
+- 
+### Activity 3
+
+### Activity 4
+[Commit Link](https://github.com/1234321blue/GDIM32-Final/commit/fadee76f8ccdf26156c607396a03dff5a19f5cd1)
+
+I worked
