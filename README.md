@@ -144,9 +144,12 @@ I worked on getting items to interact properly with the NPC and added a temporar
 Attendance: Gael Porras, Jeremiah Yang
 ### Activity 2
 #### Playtesting Notes
-- 
+- Add in more interactable items
+- Add in filler dialogue for in between giving quests
+- Make it easier to interact with NPC (bigger hitbox, indicator with some in game object or UI)
+- Locked Camera for better sense of movement
 ### Activity 3
-
+Right now, our game is 
 ### Activity 4
 [Commit Link](https://github.com/1234321blue/GDIM32-Final/commit/fadee76f8ccdf26156c607396a03dff5a19f5cd1)
 
